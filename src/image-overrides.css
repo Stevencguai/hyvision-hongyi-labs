@@ -9,3 +9,27 @@
 .gallery-card {
   background: #ebe8e2;
 }
+
+.forgot-button {
+  border: 0;
+  background: none;
+  color: #8b725d;
+  font-size: 11px;
+  margin: 16px 0 4px;
+}
+
+.success-note {
+  display: block;
+  color: #5d8668;
+  text-align: left;
+  margin: -8px 0 14px;
+  font-size: 11px;
+}
+
+.loading-screen {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  color: #8b725d;
+  font: 11px 'DM Mono', monospace;
+}
