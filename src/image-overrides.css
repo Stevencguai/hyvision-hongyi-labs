@@ -1,0 +1,11 @@
+/* Preserve the complete photograph in every presentation surface. */
+.hero-image img,
+.gallery-card img,
+.admin-photo img {
+  object-fit: contain;
+  background: #ebe8e2;
+}
+
+.gallery-card {
+  background: #ebe8e2;
+}
